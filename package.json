@@ -1,0 +1,18 @@
+{
+  "name": "serlo-searchindex",
+  "version": "0.20.12",
+  "description": "Search index of serlo.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Entkenntnis/serlo-searchindex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Entkenntnis/serlo-searchindex/issues"
+  },
+  "homepage": "https://github.com/Entkenntnis/serlo-searchindex#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
