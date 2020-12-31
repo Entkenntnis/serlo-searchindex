@@ -1,5 +1,5 @@
 {
-  "name": "serlo-searchindex",
+  "name": "@entkenntnis/serlo-searchindex",
   "version": "0.20.121",
   "description": "Search index of serlo.org",
   "repository": {
