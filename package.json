@@ -1,6 +1,6 @@
 {
   "name": "serlo-searchindex",
-  "version": "0.20.12",
+  "version": "0.20.121",
   "description": "Search index of serlo.org",
   "repository": {
     "type": "git",
